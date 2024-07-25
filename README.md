@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akshayks93
--    I’m a data enthusiast, talks about ML, CV, AI, Big Data and data science
+-    I’m a data enthusiast, talks about Cloud ML, CV, AI, Big Data and data science
 -    I’m currently learning ML, Computer vision, AIops.
 -    I’m looking to collaborate on projects and learning on the go 
 -    How to reach me on [LinkedIn @akshayks93](https://www.linkedin.com/in/akshayks93/)
